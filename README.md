@@ -44,3 +44,7 @@ maintenance, release upgrades, i18n, l10n, revision control, user profiles, logg
 
 The free version of Figma has been used as reference, but most of the material is applicable to other GUI
 development tools.
+
+# GUI Naming Convention
+
+The naming convention is currently [here](https://tensrc.com/gui_naming).
