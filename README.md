@@ -18,6 +18,8 @@ no decent naming convention is used.
 By following these advice you can save a lot of time (and money)!
 - By using names that work both in the design and the source code, they can be the same. Designers and developers
   needn't waste time trying to figure out what names are used by their peers.
+- Handover from designer to developer becomes very easy! The developer is no longer required to look at a printout
+  of the material and guess what the designer means. Some code can even ge generated automatically.
 - Since logs also can contain names that are the same both in design and code, pinpointing errors and reporting them
   is effiecent, clear and can be automated.
 - Translation of the app can be done quicker, and in some cases tutorials and manuals can be machine generated.
