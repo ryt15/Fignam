@@ -1,5 +1,5 @@
 # Fignam
-GUI naming convention that really works in practice
+GUI naming convention that really works in practice.
 
 # Purpose
 
@@ -10,8 +10,8 @@ This makes it difficult to understand and maintain software systems efficiently 
 maintenance cost and often frustration. It makes it difficult to document bugs, reuse material, automate test,
 translate the software to other languages, adopt it to other markets, analyze logs and efficiently update the GUI.
 
-Already the handover from designer to developers often cause frustration, time waste and misunderstandings because
-no decent naming convention is used.
+Already the [handover from designer to developers](DesignerBasics.md) often cause frustration, time waste and
+misunderstandings because no decent naming convention is used.
 
 ### Time saving
 
@@ -49,4 +49,6 @@ development tools.
 
 The full naming convention is currently [here](https://tensrc.com/gui_naming).
 
+- [General advice](general.md)
+- [Transition to developers](DesignerBasics.md)
 - [Color naming](colors.md)
