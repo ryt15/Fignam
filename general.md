@@ -13,6 +13,7 @@ these rules when naming their elements, classes and objects:
 - Only use the characters a-z, A-Z, \_ and digits.
 - Pay attention to casing, never use upper-case where it shall be lower-case and vice versa.
 - Never start a name with a digit.
+- Components should start with initial upper-case character, anything else (e.g. instances) should start with initial lower-case character.
 
 ## General rules
 
