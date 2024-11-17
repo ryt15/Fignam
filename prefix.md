@@ -1,4 +1,4 @@
-# GUI Naming Convention
+# Name prefices
 
 <div class="Section1">
 
@@ -6,7 +6,7 @@
 
 Below table specifies which prefixes to use when naming a GUI component.
 It's very important to base the prefix from **what it
-<span class="underline">looks like</span> to the user**, not what actual
+__looks like__ to the user**, not what actual
 code was used to implement it\! E.g. a combo box can be implemented
 either as a `<select>` or a `<datalist>` element, but it still looks
 like a combo box so the prefix `cox` shall be used\!
@@ -29,17 +29,17 @@ like a combo box so the prefix `cox` shall be used\!
 <td><p>Audio player</p></td>
 <td><p><code>&lt;audio&gt;</code></p></td>
 <td><p><code>aud</code></p></td>
-<td></td>
-<td><p> </p></td>
+<td><p><img src="https://tensrc.com/gui_naming/images/elex_audm.png" align="left" scrolling="no" width="159" id="elex_audm"/></p></td>
 <td><p><a href="https://www.w3schools.com/tags/tag_audio.asp" class="external-link">https://www.w3schools.com/tags/tag_audio.asp</a></p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>Button</p></td>
 <td><p><code>&lt;button&gt;</code><sup>3)</sup></p></td>
 <td><p><code>btn</code></p></td>
-<td></td>
-<td><p> </p></td>
+<td><p><img src="https://tensrc.com/gui_naming/images/elex_btn.png" align="left" scrolling="auto" width="42" id="elex_btn"/></p></td>
 <td><p><a href="https://www.w3schools.com/tags/tag_button.asp" class="external-link">https://www.w3schools.com/tags/tag_button.asp</a></p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>Canvas</p></td>
@@ -54,7 +54,7 @@ like a combo box so the prefix `cox` shall be used\!
 <td><p>Card</p></td>
 <td><p><code>&lt;div&gt;</code></p></td>
 <td><p><code>crd</code></p></td>
-<td></td>
+<td><img src="https://tensrc.com/gui_naming/images/elex_crd.png" align="left" scrolling="auto" width="125" id="elex_crd"></td>
 <td><p>A presentation containing a mixed set of data, usually an image on top with data underneath. See also <code>swi</code>.</p></td>
 <td></td>
 </tr>
@@ -62,8 +62,8 @@ like a combo box so the prefix `cox` shall be used\!
 <td><p>Checkbox</p></td>
 <td><p><code>&lt;input type="checkbox"&gt;</code></p></td>
 <td><p><code>cbx</code></p></td>
+<td><p><img src="https://tensrc.com/gui_naming/images/elex_cbx.png" align="left" scrolling="auto" width="180" id="elex_cbx"/></p></td>
 <td></td>
-<td><p> </p></td>
 <td><p> </p></td>
 </tr>
 <tr class="even">
