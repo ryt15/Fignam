@@ -29,3 +29,5 @@ these rules when naming their elements, classes and objects:
 - When enumerating names, make sure they have the same length by using leading zeroes for the numbers.
 - Use prefices to classify elements, f.x. prefix all [color](colors.md) names with _col_, buttons with _btn_ and so on.
 - Names of entities not meant for production or handover to developers, such as local comments or designer tools, should start with underscore. Ex: _\_colPalette_.
+- Names should be unique inside the same next higher level structure. If they are likely to move, they ought to be globally unique within the project.
+- Never use the default names assigned automatically by Figma. Assign your own names immediately on creation.
