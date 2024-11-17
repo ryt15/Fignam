@@ -26,4 +26,4 @@ these rules when naming their elements, classes and objects:
 - Abbreviate names as long as it is obvious what they mean, or when they are well documented. E.g. use _txt_ instead of _text_, _hdr_ instead of _header_, _prv_ instead of _previous_.
 - Things that are closely related, e.g. variants should have the same base names with only one unigue part.
 - When enumerating names, make sure they have the same length by using leading zeroes for the numbers.
-- Use prefices to classify elements, f.x. prefix all (color)[colors.md] names with _col_, buttons with _btn_ and so on.
+- Use prefices to classify elements, f.x. prefix all [color](colors.md) names with _col_, buttons with _btn_ and so on.
