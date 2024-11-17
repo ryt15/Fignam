@@ -70,7 +70,7 @@ like a combo box so the prefix `cox` shall be used\!
 <td><p>Combo box</p></td>
 <td><p><code>&lt;datalist&gt;&lt;option&gt;</code></p></td>
 <td><p><code>cox</code></p></td>
-<td></td>
+<td><img src="https://tensrc.com/gui_naming/images/elex_cox.png" align="left" scrolling="auto" width="203" id="elex_cox"/></td>
 <td><p>Each element in the list shall have <code>sop</code> as prefix.</p>
 <p>See also Selector option.</p></td>
 <td><p><a href="https://www.w3schools.com/tags/tag_datalist.asp" class="external-link">https://www.w3schools.com/tags/tag_datalist.asp</a></p></td>
@@ -79,7 +79,7 @@ like a combo box so the prefix `cox` shall be used\!
 <td><p>Dialog box</p></td>
 <td><p><code>&lt;dialog&gt;</code></p></td>
 <td><p><code>dlg</code></p></td>
-<td></td>
+<td><img src="https://tensrc.com/gui_naming/images/elex_dlg.png" align="left" scrolling="auto" width="76" id="elex_dlg"/></td>
 <td><p> </p></td>
 <td><p><a href="https://www.w3schools.com/tags/tag_dialog.asp" class="external-link">https://www.w3schools.com/tags/tag_dialog.asp</a></p></td>
 </tr>
@@ -87,7 +87,7 @@ like a combo box so the prefix `cox` shall be used\!
 <td><p>Div area<sup>2)</sup></p></td>
 <td><p><code>&lt;div&gt;</code><sup>2)</sup></p></td>
 <td><p><code>&lt;div&gt;</code><sup>2)</sup></p></td>
-<td></td>
+<td><img src="https://tensrc.com/gui_naming/images/elex_div.png" align="left" scrolling="auto" width="47" id="elex_div"/></td>
 <td><p>Avoid if there are any more specific component types.</p></td>
 <td><p> </p></td>
 </tr>
@@ -111,7 +111,7 @@ like a combo box so the prefix `cox` shall be used\!
 <td><p>Frame</p></td>
 <td><p><code>&lt;fieldset&gt;&lt;legend&gt;</code></p></td>
 <td><p><code>frm</code></p></td>
-<td></td>
+<td><img src="https://tensrc.com/gui_naming/images/elex_frm.png" align="left" scrolling="auto" width="162" id="elex_frm"/></td>
 <td><p> </p></td>
 <td><p> </p></td>
 </tr>
