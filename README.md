@@ -47,4 +47,6 @@ development tools.
 
 # GUI Naming Convention
 
-The naming convention is currently [here](https://tensrc.com/gui_naming).
+The full naming convention is currently [here](https://tensrc.com/gui_naming).
+
+- [Color naming](colors.md)
