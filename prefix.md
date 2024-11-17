@@ -30,16 +30,16 @@ like a combo box so the prefix `cox` shall be used\!
 <td><p><code>&lt;audio&gt;</code></p></td>
 <td><p><code>aud</code></p></td>
 <td><p><img src="https://tensrc.com/gui_naming/images/elex_audm.png" align="left" scrolling="no" width="159" id="elex_audm"/></p></td>
-<td><p><a href="https://www.w3schools.com/tags/tag_audio.asp" class="external-link">https://www.w3schools.com/tags/tag_audio.asp</a></p></td>
 <td></td>
+<td><p><a href="https://www.w3schools.com/tags/tag_audio.asp" class="external-link">https://www.w3schools.com/tags/tag_audio.asp</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Button</p></td>
 <td><p><code>&lt;button&gt;</code><sup>3)</sup></p></td>
 <td><p><code>btn</code></p></td>
 <td><p><img src="https://tensrc.com/gui_naming/images/elex_btn.png" align="left" scrolling="auto" width="42" id="elex_btn"/></p></td>
-<td><p><a href="https://www.w3schools.com/tags/tag_button.asp" class="external-link">https://www.w3schools.com/tags/tag_button.asp</a></p></td>
 <td></td>
+<td><p><a href="https://www.w3schools.com/tags/tag_button.asp" class="external-link">https://www.w3schools.com/tags/tag_button.asp</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Canvas</p></td>
@@ -136,7 +136,7 @@ like a combo box so the prefix `cox` shall be used\!
 <td><p>Hint</p></td>
 <td><p> </p></td>
 <td><p><code>hnt</code></p></td>
-<td></td>
+<td><img src="https://tensrc.com/gui_naming/images/elex_hnt.png" align="left" scrolling="auto" width="255" id="elex_hnt"/></td>
 <td><p>A Hint is a tiny help text that pops up when user hovers the mouse over component (or on a mobile shows up during long press).</p></td>
 <td><p> </p></td>
 </tr>
@@ -144,7 +144,7 @@ like a combo box so the prefix `cox` shall be used\!
 <td><p>Horizontal line</p></td>
 <td><p> </p></td>
 <td><p><code>hli</code></p></td>
-<td></td>
+<td><img src="https://tensrc.com/gui_naming/images/elex_hli.png" align="left" scrolling="auto" width="73" id="elex_hli"/></td>
 <td><p> </p></td>
 <td><p> </p></td>
 </tr>
@@ -160,8 +160,8 @@ like a combo box so the prefix `cox` shall be used\!
 <td><p>Horizontal scroll bar</p></td>
 <td><p><code>&lt;div style="overflow-x:scroll;&gt;</code></p></td>
 <td><p><code>hsc</code></p></td>
-<td></td>
-<td><p> </p></td>
+<td><img src="https://tensrc.com/gui_naming/images/elex_hsc.png" align="left" scrolling="auto" width="67" id="elex_hsc"?></p></td>
+<td><p> </p></td>
 <td><p> </p></td>
 </tr>
 <tr class="even">
@@ -248,7 +248,7 @@ like a combo box so the prefix `cox` shall be used\!
 <td><p>List (any direction)</p></td>
 <td><p><code>&lt;ul&gt;, &lt;ol&gt;</code></p></td>
 <td><p><code>lst</code></p></td>
-<td></td>
+<td><img src="https://tensrc.com/gui_naming/images/elex_vls1.png" align="left" scrolling="auto" width="90" id="elex_vls1"/></td>
 <td><p> </p></td>
 <td><p> </p></td>
 </tr>
@@ -256,7 +256,7 @@ like a combo box so the prefix `cox` shall be used\!
 <td><p>List Item</p></td>
 <td><p><code>&lt;li&gt;</code></p></td>
 <td><p><code>lii</code></p></td>
-<td></td>
+<td><img src="https://tensrc.com/gui_naming/images/elex_vls2.png" align="left" scrolling="auto" width="96" id="elex_vls2"/></td>
 <td><p> </p></td>
 <td><p><a href="https://www.w3schools.com/tags/tag_li.asp" class="external-link">https://www.w3schools.com/tags/tag_li.asp</a></p></td>
 </tr>
@@ -321,7 +321,7 @@ like a combo box so the prefix `cox` shall be used\!
 <td><p>Radio button</p></td>
 <td><p><code>&lt;input type="radio"&gt;</code></p></td>
 <td><p><code>rad</code></p></td>
-<td></td>
+<td><img src="https://tensrc.com/gui_naming/images/elex_rad.png" align="left" scrolling="auto" width="175" id="elex_rad"/></td>
 <td><p> </p></td>
 <td><p> </p></td>
 </tr>
@@ -337,7 +337,7 @@ like a combo box so the prefix `cox` shall be used\!
 <td><p>Selector option</p></td>
 <td><p><code>&lt;option&gt;</code></p></td>
 <td><p><code>sop</code></p></td>
-<td></td>
+<td><img src="https://tensrc.com/gui_naming/images/elex_sop.png" align="left" scrolling="auto" width="61"/></td>
 <td><p>See also Combo box.</p></td>
 <td><p> </p></td>
 </tr>
@@ -394,7 +394,7 @@ like a combo box so the prefix `cox` shall be used\!
 <td><p>Table</p></td>
 <td><p><code>&lt;table&gt;</code></p></td>
 <td><p><code>tbl</code></p></td>
-<td></td>
+<td><img src="https://tensrc.com/gui_naming/images/elex_tbl.png" align="left" scrolling="auto" width="37" id="elex_tbl"/></td>
 <td><p> </p></td>
 <td><p><a href="https://www.w3schools.com/tags/tag_table.asp" class="external-link">https://www.w3schools.com/tags/tag_table.asp</a></p></td>
 </tr>
@@ -459,7 +459,7 @@ like a combo box so the prefix `cox` shall be used\!
 <td><p>Text area (multi-line)</p></td>
 <td><p><code>&lt;textarea&gt;</code></p></td>
 <td><p><code>are</code></p></td>
-<td></td>
+<td><img src="https://tensrc.com/gui_naming/images/elex_are.png" align="left" scrolling="auto" width="80" id="elex_are"/></td>
 <td><p> This is a box where the user can enter multiple lines of text.</p></td>
 <td><p> </p></td>
 </tr>
@@ -475,7 +475,7 @@ like a combo box so the prefix `cox` shall be used\!
 <td><p>Variable text value</p></td>
 <td><p><code>&lt;var&gt;</code></p></td>
 <td><p><code>var</code></p></td>
-<td><p>Assume the user has selected Euro as preferred currency, so the <code>EUR</code> part of above label could be a component prefixed with <code>var</code>.</p></td>
+<td><img src="https://tensrc.com/gui_naming/images/elex_var.png" align="left" scrolling="auto" width="233" id="elex_var"/><p>Assume the user has selected Euro as preferred currency, so the <code>EUR</code> part of above label could be a component prefixed with <code>var</code>.</p></td>
 <td><p>A variable text value is a pre-defined alternative text that isn't editable by the user but may vary depending on user's preferences or earlier user input. They are usually a variable part of a label or table cell values.</p></td>
 <td><p> </p></td>
 </tr>
@@ -483,7 +483,7 @@ like a combo box so the prefix `cox` shall be used\!
 <td><p>Vertical line</p></td>
 <td><p> </p></td>
 <td><p><code>vli</code></p></td>
-<td></td>
+<td><img src="https://tensrc.com/gui_naming/images/elex_vli.png" align="left" scrolling="auto" width="20" id="elex_vli"/></td>
 <td><p> </p></td>
 <td><p> </p></td>
 </tr>
@@ -499,7 +499,7 @@ like a combo box so the prefix `cox` shall be used\!
 <td><p>Vertical scroll bar</p></td>
 <td><p> </p></td>
 <td><p><code>vsc</code></p></td>
-<td></td>
+<td><img src="https://tensrc.com/gui_naming/images/elex_vsc.png" align="left" scrolling="auto" width="22" id="elex_vsc"/></td>
 <td><p> </p></td>
 <td><p> </p></td>
 </tr>
@@ -554,7 +554,7 @@ like a combo box so the prefix `cox` shall be used\!
 <td><p><code>background-color</code></p></td>
 <td><p><code>col</code></p></td>
 <td><p><code>BG</code></p></td>
-<td><br />
+<td><img src="https://tensrc.com/gui_naming/images/atex_bg.png" align="left" scrolling="auto" width="56" id="atex_bg"/><br />
 <br />
 <code>colInfoBG</code></td>
 </tr>
@@ -563,7 +563,7 @@ like a combo box so the prefix `cox` shall be used\!
 <td><p><code>color</code></p></td>
 <td><p><code>col</code></p></td>
 <td><p><code>FG</code></p></td>
-<td><br />
+<td><img src="https://tensrc.com/gui_naming/images/atex_fg.png" align="left" scrolling="auto" width="62" id="atex_fg"/><br />
 <br />
 <code>colWarningFG</code></td>
 </tr>
