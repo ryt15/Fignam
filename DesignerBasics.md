@@ -1,6 +1,6 @@
-# Basic facts for designers
+# Transition from designer to developer
 
-Based on some observed misunderstandings, I recommend all UI/UX designers to read the above
+Based on some observed misunderstandings, I recommend all UI/UX designers to read the below
 very carefully at least once!
 
 ## Developers can't read your mind!
@@ -25,18 +25,7 @@ to the next customer as soon as possible.
 
 The standard SISO rule applies - Shit In gives Shit Out!
 
-## Some syntax doesn't work in source code
+## Rules for easier handover
 
-To avoid name confusion, you as a designer should give names to your components that also works in
-source code. Some basic rules:
-
-- Never ever use blanks in names!
-- Only use the characters a-z, A-Z, _ and digits.
-- Pay attention to casing, never use upper-case where it shall be lower-case and vice versa.
-- Never start a name with a digit.
-- Always base names on the American English language.
-- Make the names distinct enough so they can be found easily using free text search.
-- Never use the words new, old, next, last, previous or final.
-- Keep decent lenght of all names (more on that in other chapters).
-- Name all new components immediately after you created them.
-- Consider everything as multiple! Add a sequence number to the end of the name, and have the same number of digits.
+Please read, and follow [general advice](general.md) to make it easier to hand over the project to
+developrs, and maintain it for a very long time.
